@@ -68,7 +68,6 @@
   }
   
   nav {
-    
     padding: 1%;
     display: inline-block;
     padding-left: 0px;
@@ -80,7 +79,6 @@
   }
   
   .icon {
-      float:right;
       width:50px;
       cursor:pointer;
   }
